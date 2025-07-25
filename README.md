@@ -1,2 +1,2 @@
 # javascriptproject6
-code editor
+This is a simple and interactive live code editor built using HTML, CSS, and JavaScript. It allows users to write code in separate panels for HTML, CSS, and JavaScript, and instantly view the output in a preview window using an embedded iframe. The editor updates the output in real time as the user types, making it a great tool for beginners to test and visualize code instantly. The layout is styled with CSS and enhanced with Font Awesome icons for a clean and modern interface.
